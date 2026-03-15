@@ -47,7 +47,7 @@ export default function NestleAssessmentPage() {
                 shape responsible business practices.
               </p>
               <div className="mt-6 flex flex-wrap gap-2 text-xs text-stone-400">
-                {["Student: Olivia Fang", "Placement: Data Analytics", "Nestlé Australia"].map(
+                {["Student: Olivia Fan", "Placement: Data Analytics", "Nestlé Australia"].map(
                   (tag) => (
                     <span
                       key={tag}
