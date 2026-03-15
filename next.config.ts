@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  // basePath: "/repo-name", // uncomment and set to your GitHub repo name
+  basePath: "/comm5022",
   images: {
     unoptimized: true,
   },
